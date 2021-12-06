@@ -1,0 +1,6 @@
+*.pyc
+*.db
+.venv/
+.vscode
+logs/
+standalone_admin_password.txt
